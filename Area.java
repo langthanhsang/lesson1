@@ -1,7 +1,7 @@
 package lesson1;
 import java.util.Scanner;
 
-public class Main {
+public class Area {
     public static void main(String[] args) {
     float width;
     float height;
